@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an interactive **Microsoft Power BI dashboard** developed using the Superstore dataset. The analysis evaluates sales performance, profitability, customer segments, products, shipping methods, and regional performance.
+This project presents a **Microsoft Power BI dashboard** developed using the Superstore dataset. The analysis evaluates sales performance, profitability, customer segments, products, shipping methods, and regional performance.
 
 The goal is to transform transactional sales data into meaningful business insights that can support management decision-making.
 
@@ -51,7 +51,6 @@ The dashboard includes:
 ## 📂 Project Resource
 
 - [Executive Summary Report](./Superstor_Executive_Summary.pdf)
-- [Power BI project file](./superstore_analysis.pbix)
 - [Dashboard](./superstore_analysis.pdf)
 
 ## Author
