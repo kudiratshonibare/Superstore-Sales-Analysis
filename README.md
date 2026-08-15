@@ -48,10 +48,10 @@ The dashboard includes:
 5. **Standard Class is the most frequently
 6. used shipping mode**, accounting for approximately **59.77% of orders**.
 
-## 📂 Project Resource
+## 📂 Execute Summary & Dashboard Preview 
 
 - [Executive Summary Report](./Superstor_Executive_Summary.pdf)
-- [Dashboard](./superstore_analysis.pdf)
+- [Dashboard](./sales_dashboard.png)
 
 ## Author
 
