@@ -45,15 +45,14 @@ The dashboard includes:
 2. **Consumer customers contribute the largest share of sales**, generating approximately **$1.16M**.
 3. **Technology is the strongest-performing category**, generating approximately **$836K in sales** and **$145K in profit**.
 4. **Copiers are the most profitable sub-category**, generating approximately **$56K in profit**.
-5. **Standard Class is the most frequently used shipping mode**, accounting for approximately **59.77% of orders**.
+5. **Standard Class is the most frequently
+6. used shipping mode**, accounting for approximately **59.77% of orders**.
 
 ## 📂 Project Resource
 
-- Business Intelligence Overview Report
-- Executive Summary Report
-- Power BI `.pbix` project file
-- Dashboard export
-- Project documentation
+- [Executive Summary Report](./Superstor_Executive_Summary.pdf)
+- [Power BI project file](./superstore_analysis.pbix)
+- [Dashboard](./superstore_analysis.pdf)
 
 ## Author
 
